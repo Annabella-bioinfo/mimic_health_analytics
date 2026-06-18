@@ -42,7 +42,8 @@ Sepsis, though infrequent, drives the longest stays at 10.12 days. The adjusted
 
 ## Notebooks
 `1_data_exploration.ipynb`: data cleaning, EDA, and visualizations on patient admissions and outcomes
-`02_sql_analysis.ipynb`: SQL queries covering admission volume, mortality rates, top diagnoses, and 30-day readmissions.
+
+`02_sql_analysis.ipynb`: SQL queries covering admission volume, mortality rates, top diagnoses, and 30-day readmissions
 
 `clinical_operations_dashboard.pbix`: Interactive Power BI dashboard visualizing key clinical metrics and operational insights
 
