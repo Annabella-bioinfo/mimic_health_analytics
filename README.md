@@ -16,8 +16,11 @@ operations and resource planning decisions.
 
 ## Tools Used
 **Python** (pandas, matplotlib, seaborn) — data cleaning and EDA
+
 **SQL** (SQLite via Python) — structured clinical queries
-**Power BI** — interactive dashboard (see Project 2)
+
+**Power BI** — interactive dashboard 
+
 **Jupyter Notebook** — analysis environment
 
 ## Clinical Questions Answered
