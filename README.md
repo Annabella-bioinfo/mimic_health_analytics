@@ -43,11 +43,12 @@ Sepsis, though infrequent, drives the longest stays at 10.12 days. The adjusted
 `clinical_operations_dashboard.pbix`: Interactive Power BI dashboard visualizing key clinical metrics and operational insights
 
 ## Recommendations
-1. Prioritize urgent admission pathways — highest mortality (13.16%) and longest stays (9.9 days) indicate complex cases requiring enhanced clinical resources
-2. Investigate discharge planning processes — 21.1% 30-day readmission rate exceeds the 15% US benchmark, suggesting potential gaps in post-discharge follow-up
-3. Monitor high-acuity diagnoses — sepsis and encephalopathy consume disproportionate bed days despite lower admission volume, warranting targeted intervention protocols
+1. Prioritize urgent admission pathways: highest mortality (13.16%) and longest stays (9.9 days) indicate complex cases requiring enhanced clinical resources
+2. Investigate discharge planning processes: 21.1% 30-day readmission rate exceeds the 15% US benchmark, suggesting potential gaps in post-discharge follow-up
+3. Monitor high-acuity diagnoses: sepsis and encephalopathy consume disproportionate bed days despite lower admission volume, warranting targeted intervention protocols
 
 ## Author
 Annabella Baiden-Mensah
+
 Health Data Analyst | BSc Biological Sciences, KNUST
 [LinkedIn](https://www.linkedin.com/in/annabellabaidenmensah/)  
