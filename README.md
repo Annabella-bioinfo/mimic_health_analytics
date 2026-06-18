@@ -38,6 +38,8 @@ in-hospital mortality rate is 5.5%, slightly above general hospital benchmarks.
 Sepsis, though infrequent, drives the longest stays at 10.12 days. The adjusted 
 30-day readmission rate is 21.1%, exceeding the US national benchmark of 15%.
 
+![Dashboard Preview](dashboard_preview.png)
+
 
 ## Notebooks
 `1_data_exploration.ipynb`: data cleaning, EDA, and visualizations on patient admissions and outcomes
